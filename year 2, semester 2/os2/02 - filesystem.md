@@ -48,6 +48,9 @@ come sappiamo da [[filesystem in UNIX, Windows, Linux|os1]], esistono diversi ti
 >- FAT ed NTFS possono essere montati su di un filesystem linux (lo sappiamo già !)
 
 `mount` è il comando per montare un filesystem, e visualizzare i filesystem montati
+`cat etc/mtab` permette la visualizzazione dei filesystem montati
+`cat etc/mstab` permette la visualizzazione dei filesystem montati al boot
+
 ## file `passwd` e `group`
 si trovano entrambi in `/etc/`, e il loro uso rappresenta una delle filosofie di linux: usare file di testo con una struttura definita e conosciuta dai programmi che devono interagire con quei file (in questo caso, `adduser` conosce la struttura di questi due file)
 la struttura è stata spiegata in [[sicurezza]]
