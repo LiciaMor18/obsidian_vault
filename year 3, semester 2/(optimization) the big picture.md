@@ -12,4 +12,7 @@ as the FF algorithm runs in exponential time, we introduce the *Elmands + Karp a
 - the EK algorithm is just like the FF algorithm, but it takes the shortest $s \to t$ path in the residual graph (finds it using a BFS)
 we proved EK algorithms’s upper bound on steps ($n\cdot m$)
 
+## linear programs
+we introduced the structure of *linear programs*
+###
 ## integer problems
