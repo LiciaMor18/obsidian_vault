@@ -14,5 +14,15 @@ we proved EK algorithms’s upper bound on steps ($n\cdot m$)
 
 ## linear programs
 we introduced the structure of *linear programs*
-###
+we studied that a linear program has either:
+1) a unique optimal solution
+2) infinitely many optimal solutions
+3) no feasible solutions
+4) a feasible solution but no optimal solution (unbounded)
+
+we studied *convex* feasible sets
+- we proved that all linear programs have a convex feasible set
+- 
+### geometry
+we first noticed that the objective function can be re-written as a scalar product, and its gradient (the coefficients) point to the directions of steepest increase
 ## integer problems
