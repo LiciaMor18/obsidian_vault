@@ -28,7 +28,9 @@ we observed that every LP can be written in standard form
 we introduced the simplex method by defining its starting assumptions, and we understood the geometric definition of a feasible set (*affine subspace !*). we introduced *basic feasible solutions* (*bfs*).
 we proved that:
 $$ \text{given $x$ feasible solution, $x$ is a bfs} \iff B'=\{i|x_{i}>0\} \text{ has } A_{B'} \text{ w/ l.i. columns}
+
 $$
+we also proved the *fundamental theorem of linear programming*
 ### geometry
 we first noticed that the objective function can be re-written as a scalar product, and its gradient (the coefficients) point to the directions of steepest increase
 ## integer problems
