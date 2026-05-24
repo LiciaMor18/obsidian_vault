@@ -43,7 +43,10 @@ we defined *degenerate bfs*
 
 we introduced *pivot rules*.
 we proved that the all feasibles bases for a cycle give the same bfs, and that all the fickle variables in that bfs are equal to 0
+we introduced *bland’s rule* and proved that it doesn’t cycle
 ### dual problem
+to find an upper bound to a given LP, we introduce its *dual* problem (the original LP being called the *primal*). by solving the dual, we find the upper bound for the primal. 
+we defined the *weak duality theorem* and the *strong duality theorem*
 ### geometry
 we first noticed that the objective function can be re-written as a scalar product, and its gradient (the coefficients) point to the directions of steepest increase
 ## integer problems
