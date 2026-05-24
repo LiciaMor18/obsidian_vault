@@ -22,7 +22,9 @@ we studied that a linear program has either:
 
 we studied *convex* feasible sets
 - we proved that all linear programs have a convex feasible set
-- 
+- we proved that if there exist two distinct optimal solutions, there exist infinite optimal solutions
+we observed that every LP can be written in standard form
+### simplex method
 ### geometry
 we first noticed that the objective function can be re-written as a scalar product, and its gradient (the coefficients) point to the directions of steepest increase
 ## integer problems
