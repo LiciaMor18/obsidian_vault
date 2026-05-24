@@ -38,8 +38,12 @@ $$
 \text{$v$ is a vertex} \iff \text{$v$ is a bfs to the problem}
 $$
 we defined the simplex tableau and proved the ending step 
-
 we touched on some of the edge cases
+we defined *degenerate bfs* 
+
+we introduced *pivot rules*.
+we proved that the all feasibles bases for a cycle give the same bfs, and that all the fickle variables in that bfs are equal to 0
+### dual problem
 ### geometry
 we first noticed that the objective function can be re-written as a scalar product, and its gradient (the coefficients) point to the directions of steepest increase
 ## integer problems
