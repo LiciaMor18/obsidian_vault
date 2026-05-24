@@ -38,6 +38,8 @@ $$
 \text{$v$ is a vertex} \iff \text{$v$ is a bfs to the problem}
 $$
 we defined the simplex tableau and proved the ending step 
+
+we touched on some of the edge cases
 ### geometry
 we first noticed that the objective function can be re-written as a scalar product, and its gradient (the coefficients) point to the directions of steepest increase
 ## integer problems
