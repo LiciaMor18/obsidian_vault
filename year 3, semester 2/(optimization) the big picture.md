@@ -31,6 +31,7 @@ $$ \text{given $x$ feasible solution, $x$ is a bfs} \iff B'=\{i|x_{i}>0\} \text{
 
 $$
 we also proved the *fundamental theorem of linear programming*
+furthermore, we defined *convex combinations* and
 ### geometry
 we first noticed that the objective function can be re-written as a scalar product, and its gradient (the coefficients) point to the directions of steepest increase
 ## integer problems
